@@ -2,3 +2,8 @@
 # def 함수 이름(input):
 #   처리 코드
 #   output
+
+# 예시 1
+def hello(name):
+    print('hello'+name+'welcome')
+    
